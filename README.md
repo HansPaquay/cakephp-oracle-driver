@@ -1,4 +1,4 @@
-# CakePHP 3 Driver for Oracle Database
+# CakePHP 4 compatible Driver for Oracle Database
 
 [![Downloads](https://poser.pugx.org/cakedc/cakephp-oracle-driver/d/total.png)](https://packagist.org/packages/cakedc/cakephp-oracle-driver)
 [![Latest Version](https://poser.pugx.org/cakedc/cakephp-oracle-driver/v/stable.png)](https://packagist.org/packages/cakedc/cakephp-oracle-driver)
