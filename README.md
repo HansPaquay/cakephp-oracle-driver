@@ -23,7 +23,7 @@ In bootstrap.php load plugin with bootstrap.
 
 ## Requirements
 
-- CakePHP 3.2+
+- CakePHP 3.2+ / CakePHP 4.0+
 - an Oracle PHP extension
   - OCI8 (PHP extension built with PHP)
   - PDO_OCI (PHP extension built with PHP)
@@ -41,7 +41,7 @@ available.)
 Here is an example datasource configuration:
 
 ```php
-        <?php
+<?php
 return [
     'Datasources' => [
         'default' => [
